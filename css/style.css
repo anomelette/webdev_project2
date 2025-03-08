@@ -1,0 +1,40 @@
+body {
+  font-family: 'Garamound', sans-serif;
+  background-color: #f2e9e4;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #4a4e69;
+  color: #E6DCE4;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #22223b;
+  color: #E6DCE4;
+  padding: 10px 0;
+}
+
+nav li {
+  list-style: none;
+  display: inline;
+  vertical-align: center;
+}
+
+nav a {
+  color: #E6DCE4;
+  font-weight: bold;
+  padding: 10px 15px;
+  margin: auto;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #c9ada7;
+}
