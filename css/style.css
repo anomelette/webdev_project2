@@ -1,5 +1,5 @@
 body {
-  font-family: 'Garamound', sans-serif;
+  font-family: 'Lucida Bright', sans-serif;
   background-color: #f2e9e4;
   margin: 0;
   padding: 0;
@@ -37,4 +37,11 @@ nav a {
 
 nav a:hover {
   color: #c9ada7;
+}
+
+.resume {
+  background-color: #c9ada7;
+  color: #22223b;
+  padding: 10px;
+  margin: 20px 20px;
 }
