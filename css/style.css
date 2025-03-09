@@ -1,3 +1,4 @@
+/*Universal styling */
 body {
   font-family: 'Lucida Bright', sans-serif;
   background-color: #f2e9e4;
@@ -39,6 +40,7 @@ nav a:hover {
   color: #c9ada7;
 }
 
+/*Resume page*/
 .resume {
   width: 1000px;
   background-color: #c9ada7;
