@@ -40,6 +40,7 @@ nav a:hover {
 }
 
 .resume {
+  width: 1000px;
   background-color: #c9ada7;
   color: #22223b;
   padding: 10px;
@@ -47,25 +48,29 @@ nav a:hover {
 }
 
 #resume {
-  width: 1000px;  /* Fixed width for the whole page */
-  margin: 0 auto;  
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#resume_header, #skills {
+  margin: 0 auto;
+  width: 945px;
 }
 
 .resume-layout {
-  display: flex;  /* Use flexbox to align content */
-  justify-content: space-between;  /* Space the sections evenly */
-  align-items: flex-start;  /* Align all items to the top */
-  width: 1000px;  /* Fixed width */
-  margin: 0 auto;  /* Center the layout */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 1000px;
+  margin: 0 auto;
 }
 
 #project, #work {
-  width: 85%;  /* Take up 48% of the container */
+  width: 85%;
 }
 
-
 #leadership {
-  width: 65%;  /* Leadership section takes up 20% */
-  margin-top: 0;  /* Aligns it at the top of the section */
-  order: 1;  /* Moves it to the far right */
+  width: 71%;
+  margin-top: 10 auto;
+  order: 1;
 }
