@@ -54,8 +54,14 @@ section {
 }
 
 /*Homepage*/
+.home {
+  width: 60%;
+  margin: 0 auto;
+}
 
+#about-me {
 
+}
 /*Resume page*/
 .resume {
   width: 1000px;
@@ -77,6 +83,7 @@ section {
 #skills {
   margin: 0 auto;
   width: 945px;
+  
 }
 
 .resume-layout {
