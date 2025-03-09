@@ -48,10 +48,7 @@ nav a:hover {
 
 #resume {
   width: 1000px;  /* Fixed width for the whole page */
-  margin: 0 auto;  /* Center th
-#resume {
-  width: 1000px;  /* Fixed width for the whole page */
-  margin: 0 auto;  /* Center the content */
+  margin: 0 auto;  
 }
 
 .resume-layout {
