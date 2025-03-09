@@ -53,6 +53,9 @@ section {
   box-shadow: 0 2px 10px #7e564e;
 }
 
+/*Homepage*/
+
+
 /*Resume page*/
 .resume {
   width: 1000px;
@@ -74,7 +77,6 @@ section {
 #skills {
   margin: 0 auto;
   width: 945px;
-  
 }
 
 .resume-layout {
