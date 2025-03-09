@@ -16,9 +16,9 @@ h1 {
 h2 {
   color: #22223b;
   font-size: 23pt;
-  background-color: #E6DCE4;
   padding: 20px;
-  border-radius: 10px;
+  margin: 0;
+  text-align: center;
 }
 
 nav {
@@ -67,13 +67,14 @@ section {
   margin: 0 auto;
 }
 
-#resume-header {
-  margin-left: 20px;
+#resume-container {
+  padding-bottom: 10pt;
 }
 
 #skills {
   margin: 0 auto;
   width: 945px;
+  
 }
 
 .resume-layout {
