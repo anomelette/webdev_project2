@@ -61,7 +61,9 @@ section {
   margin: 0 auto;
   width: max-content;
   padding-bottom: 5vh;
+  padding-top: 1vw;
   background-color: #c9ada7;
+  gap: 2rem; 
 }
 
 /*Homepage*/
@@ -77,10 +79,30 @@ h1.home {
   margin-top: 20px;
 }
 
-section.home {
+section.home  {
   max-width: 90%;
   margin-bottom: 1vw;
   background-color: #f2e9e4;
+}
+
+/*Cats page*/
+
+h1.cats {
+  width: 46rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+section.cats {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  padding: 1%;
+  background-color: #f2e9e4;
+}
+
+#cats-body {
+  background-color: #E6DCE4;
 }
 
 /*Resume page*/
