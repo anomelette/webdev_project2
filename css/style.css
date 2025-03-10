@@ -51,10 +51,10 @@ nav a:hover {
 section {
   border-radius: 10px;
   box-shadow: 0 2px 10px #7e564e;
+
 }
 
 .container {
-  padding-bottom: 10pt;
   border-radius: 10px;
   box-shadow: 0 2px 10px #7e564e;
   margin: 0 auto;
@@ -65,7 +65,12 @@ section {
 .home {
   width: 65vw;
   margin: 0 auto;
-  padding: 20px;
+  padding: 1vw;
+}
+
+section.home {
+  max-width: 90%;
+  margin-bottom: 1vw;
 }
 
 /*Resume page*/
