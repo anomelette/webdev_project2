@@ -61,6 +61,7 @@ section {
   margin: 0 auto;
   width: max-content;
   padding-bottom: 5vh;
+  background-color: #c9ada7;
 }
 
 /*Homepage*/
@@ -79,6 +80,7 @@ h1.home {
 section.home {
   max-width: 90%;
   margin-bottom: 1vw;
+  background-color: #f2e9e4;
 }
 
 /*Resume page*/
@@ -95,10 +97,13 @@ section.home {
   margin: 0 auto;
 }
 
+#resume-container {
+  background-color: #f2e9e4;
+}
+
 #skills {
   margin: 0 auto;
-  width: 94%;
-  
+  width: 94%;  
 }
 
 .resume-layout {
