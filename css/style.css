@@ -58,12 +58,12 @@ section {
   border-radius: 10px;
   box-shadow: 0 2px 10px #7e564e;
   margin: 0 auto;
-  width: 70%;
+  width: max-content;
 }
 
 /*Homepage*/
 .home {
-  width: 90%;
+  width: 65vw;
   margin: 0 auto;
   padding: 20px;
 }
