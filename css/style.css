@@ -70,21 +70,21 @@ section {
 
 /*Resume page*/
 .resume {
-  width: 1000px;
+  max-width: 1000px;
   background-color: #c9ada7;
   color: #22223b;
-  padding: 10px;
+  padding: 1rem;
   margin: 20px 20px;
 }
 
 #resume {
-  width: 1000px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
 #skills {
   margin: 0 auto;
-  width: 945px;
+  width: 94%;
   
 }
 
@@ -92,7 +92,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  width: 1000px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
