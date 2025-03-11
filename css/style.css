@@ -84,6 +84,7 @@ iframe {
   display: block;
   margin: 0 auto;
 }
+
 p {
   margin: 0 auto; /* Centers the block */
   text-align: left; /* Keeps text aligned to the left */
@@ -109,10 +110,14 @@ section.home  {
   background-color: #f2e9e4;
 }
 
+.hobby-list {
+  padding-left: 30%;
+}
+
 /*Cats page*/
 
 h1.cats {
-  width: 49.5rem;
+  width: 50.5rem;
   margin: 0 auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
