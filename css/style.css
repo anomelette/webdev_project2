@@ -99,7 +99,7 @@ p {
 }
 
 h1.home {
-  margin: 20 auto;
+  margin: 20px auto;
   margin-bottom: 20px;
   margin-top: 20px;
 }
@@ -151,7 +151,7 @@ section.home  {
 
 #leadership {
   width: 71%;
-  margin-top: 10 auto;
+  margin-top: 10px auto;
   order: 1;
 }
 
