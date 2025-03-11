@@ -74,7 +74,7 @@ section {
 img {
   display: block;
   margin: 0 auto;
-  border: 2px solid #22223b;
+  border: 2.5px groove gray;
   border-radius: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -112,28 +112,6 @@ section.home  {
 
 .hobby-list {
   padding-left: 30%;
-}
-
-/*Cats page*/
-
-h1.cats {
-  width: 50.5rem;
-  margin: 0 auto;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-section.cats {
-  width: 90%;
-  margin: 0 auto;
-  margin-bottom: 1vw;
-  padding: 1%;
-  padding-left: 2em;
-  padding-right: 1em;
-  background-color: #f2e9e4;
-}
-
-#cats-body {
-  background-color: #E6DCE4;
 }
 
 /*Resume page*/
@@ -175,4 +153,25 @@ section.cats {
   width: 71%;
   margin-top: 10 auto;
   order: 1;
+}
+
+/*Cats page*/
+h1.cats {
+  width: 50.5rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+section.cats {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 1vw;
+  padding: 1%;
+  padding-left: 2em;
+  padding-right: 1em;
+  background-color: #f2e9e4;
+}
+
+#cats-body {
+  background: linear-gradient(to bottom, #E6DCE4, #a99ea7);
 }
