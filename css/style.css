@@ -86,9 +86,9 @@ iframe {
 }
 
 p {
-  margin: 0 auto; /* Centers the block */
-  text-align: left; /* Keeps text aligned to the left */
-
+  margin: 0 auto;
+  text-align: left;
+  margin-bottom: 1rem;
 }
 
 /*Homepage*/
