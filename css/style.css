@@ -175,6 +175,7 @@ section.cats {
 
 #cats-body {
   background: linear-gradient(to bottom, #E6DCE4, #a99ea7);
+  background-image: url("../media/cat_background.png";
 }
 
 #cats-body p {
