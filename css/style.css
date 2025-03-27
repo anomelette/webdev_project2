@@ -169,9 +169,14 @@ section.cats {
   padding: 1%;
   padding-left: 2em;
   padding-right: 1em;
+  padding-top: 2.5em;
   background-color: #f2e9e4;
 }
 
 #cats-body {
   background: linear-gradient(to bottom, #E6DCE4, #a99ea7);
+}
+
+#cats-body p {
+  text-align: center;
 }
